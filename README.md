@@ -1,9 +1,9 @@
-## Hi there 👋
-⚡i'm a student📕 from bavaria🥨
-🤔becose of that im only a half time full Stack Developer👨‍💻.
-🔭 I’m working for a small ensuriance Company developing some data struckturing systems, mainly in Java.
-🌱 also i have Knowledge of Web developing and some basic C/C++ Skills.
-📫 How to reach me: You can contace me any time by writing a email to dominic.bachl@icloud.com
+## Hi there 👋 <br />
+⚡i'm a student📕 from bavaria🥨 <br />
+🤔becose of that im only a half time full Stack Developer👨‍💻. <br />
+🔭 I’m working for a small ensuriance Company developing some data struckturing systems, mainly in Java. <br />
+🌱 also i have Knowledge of Web developing and some basic C/C++ Skills. <br />
+📫 How to reach me: You can contace me any time by writing a email to dominic.bachl@icloud.com <br />
 
 <!--
 **vqiz/vqiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
