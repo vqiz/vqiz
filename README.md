@@ -4,7 +4,7 @@
 🔭 I’m working for a small insurance company developing some data structuring systems, mainly in Java. <br />
 🌱 Also, I have knowledge of web development and some basic C/C++ skills. <br />
 📫 How to reach me: You can contact me any time by writing an email to dominic.bachl@icloud.com. <br />
-
+💬 I always appreciate help as well as criticism on my code. Nobody is perfect. <br />
 <!--
 **vqiz/vqiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
