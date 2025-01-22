@@ -11,7 +11,7 @@ I'm a **student** 📕 from **Bavaria** 🥨 and a **part-time full-stack develo
 ## 🌱 Skills and Tools
 - **Languages**: Java, JavaScript, HTML, CSS, C/C++
 - **Frameworks**: Spring Boot, React.js
-- **Database Management**: SQL, MySQL
+- **Database Management**: SQL, MySQL, MongoDB
 - **Other Tools**: Git, Docker, IntelliJ IDEA
 
 ## 🤔 Fun Facts
