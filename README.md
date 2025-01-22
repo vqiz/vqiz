@@ -1,21 +1,28 @@
-## Hi there 👋 <br />
-⚡I'm a student📕 from Bavaria🥨. <br />
-🤔 Because of that, I'm only a half-time full-stack developer👨‍💻. <br />
-🔭 I’m working for a small insurance company developing some data structuring systems, mainly in Java. <br />
-🌱 Also, I have knowledge of web development and some basic C/C++ skills. <br />
-📫 How to reach me: You can contact me any time by writing an email to dominic.bachl@icloud.com. <br />
-💬 I always appreciate help as well as criticism on my code. Nobody is perfect. <br />
-<!--
-**vqiz/vqiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Dominic Bachl!
 
-Here are some ideas to get you started:
+## ⚡ About Me
+I'm a **student** 📕 from **Bavaria** 🥨 and a **part-time full-stack developer** 👨‍💻. I work for a small **insurance company**, focusing on **data structuring systems** using **Java**. In my free time, I enjoy expanding my skills and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Professional Interests
+- Developing efficient **data structures** and **back-end solutions**.
+- Building modern **web applications** with a focus on performance and scalability.
+- Experimenting with **C/C++ programming** to deepen my low-level programming knowledge.
+
+## 🌱 Skills and Tools
+- **Languages**: Java, JavaScript, HTML, CSS, C/C++
+- **Frameworks**: Spring Boot, React.js
+- **Database Management**: SQL, MySQL
+- **Other Tools**: Git, Docker, IntelliJ IDEA
+
+## 🤔 Fun Facts
+- I'm passionate about **learning and improving**—no one is perfect, and I value constructive feedback on my work. 💬
+- When I'm not coding, I enjoy **Bavarian culture** and the occasional **Pretzel & Weißwurst**. 🥨
+
+## 📫 Get in Touch
+Feel free to reach out if you want to discuss projects, ask questions, or share ideas.  
+📧 **Email**: [dominic.bachl@icloud.com](mailto:dominic.bachl@icloud.com)
+
+---
+
+> 💡 *"Learning never exhausts the mind."* – Leonardo da Vinci  
+Stay curious and keep coding!
