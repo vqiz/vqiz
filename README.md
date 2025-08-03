@@ -9,7 +9,7 @@ I'm a **student** 📕 from **Bavaria** 🥨 and a **part-time full-stack develo
 - Experimenting with **C/C++ programming** to deepen my low-level programming knowledge.
 
 ## 🌱 Skills and Tools
-- **Languages**: Java, JavaScript, HTML, CSS, C/C++
+- **Languages**: Java, JavaScript, HTML/CSS, C/C++
 - **Frameworks**: Spring Boot, React.js, React-Native
 - **Database Management**: SQL, MySQL, MongoDB
 - **Other Tools**: Git, Docker, IntelliJ IDEA
