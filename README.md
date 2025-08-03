@@ -16,7 +16,7 @@ I'm a **student** 📕 from **Bavaria** 🥨 and a **part-time full-stack develo
 
 ## 🤔 Fun Facts
 - I'm passionate about **learning and improving**—no one is perfect, and I value constructive feedback on my work. 💬
-- When I'm not coding, I enjoy **Bavarian culture** and the occasional **Pretzel & Weißwurst**. 🥨
+- When I'm not coding, I enjoy **Bavarian culture** and the occasional **Brezen & Weißwurst**. 🥨
 
 ## 📫 Get in Touch
 Feel free to reach out if you want to discuss projects, ask questions, or share ideas.  
