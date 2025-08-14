@@ -46,9 +46,6 @@ In my free time, I explore new technologies and love solving challenging problem
   <a href="https://github.com/DominicBachl">
     <img src="https://img.shields.io/badge/GitHub-Profile-%23181717?logo=github&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
 </p>
 
 ---
